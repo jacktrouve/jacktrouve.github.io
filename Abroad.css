@@ -1,0 +1,57 @@
+.top {
+	padding-top: 3.05rem;
+}
+
+.navbar li {
+	padding-right: 2rem;
+
+}
+
+.navbar-nav > li > a {
+	padding-top:10px !important; padding-bottom:10px !important;
+}
+
+.navbar {
+	min-height:30px !important;
+}
+
+.navbar-inverse .navbar-nav .open > .nav-link,
+.navbar-inverse .navbar-nav .active > .nav-link,
+.navbar-inverse .navbar-nav .nav-link.open,
+.navbar-inverse .navbar-nav .nav-link.active {
+	color: rgba(255,220,122,1);
+	font-size: 22px;
+}
+
+.nav-text {
+	color: rgba(255,150,122,1);
+	font-weight: bold;
+	font-size: 25px;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+	margin-top: 6px;
+}
+
+.home .banner img{
+	padding-top: 3.04rem;
+	max-height: 20rem;
+	width: 25%;
+	float: left;
+}
+
+.thumbs img {
+	width: 50%;
+}
+
+.thumbs {
+	text-align: center;
+}
+
+.home {
+	background-color: rgba(10,95,150,0.5);
+}
+
+.titulo {
+	text-align: right;
+}
